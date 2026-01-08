@@ -1,16 +1,16 @@
 # Hi there, I'm Atharva! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC+Mumbai;Full-Stack+Web+Developer;Building+AI-powered+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4200&pause=1100&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC+Mumbai;Full-Stack+Web+Developer;Aspiring+Software+Engineer" />
 
 
 I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
-I love building full-stack applications that solve real-world problems, and am currently working on problem solving skills(**DSA**), building **AI-powered** projects.
+I love building full-stack applications that solve real-world problems, and am currently working on my problem solving skills(**DSA**), building **AI-powered** projects.
 
 ---
 
 ### 🚀 What I'm Up To
 - 🎓 **Studying:** Computer Engineering (Semester 6)
 - 💻 **Focus:** Full-Stack Web Development (Next.js, React, Node.js)
-- 🛠️ **Building:** Just launched **VectorAI**, an AI career coach app.
+- 🛠️ **Building:** Just deployed **VectorAI**, an AI career coach app.
 - 🤝 **Collaboration:** Always open to hands-on challenges and team projects!
 
 ---
@@ -40,19 +40,19 @@ I love building full-stack applications that solve real-world problems, and am c
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourlinkedin">
-    <img align="left" alt="Atharva's LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
   &nbsp;
   <a href="mailto:atharvai2005@gmail.com">
-    <img align="left" alt="Email Atharva" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" />
   </a>
   &nbsp;
   <a href="mailto:atharvajofficial@gmail.com">
-    <img align="left" alt="Email Atharva" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+    <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" />
   </a>
   &nbsp;
   <a href="https://myportfolio-n5v7.onrender.com">
-    <img align="left" alt="Portfolio" width="24px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
+    <img alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubpages.svg" />
   </a>
 </p>
 <br />
