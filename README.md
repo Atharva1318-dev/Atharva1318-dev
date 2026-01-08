@@ -24,19 +24,6 @@ I love building full-stack applications that solve real-world problems, and am c
 
 ---
 
-### 🌟 My Projects
-
-**[VectorAI - AI Career Coach](https://github.com/yourusername/vectorai)**  
-*Next.js, Gemini AI, PostgreSQL, Prisma* A full-stack AI career helper that generates resumes, cover letters, and practice interview quizzes.
-
-**[SIH 2025 Attendance System](https://github.com/yourusername/sih-attendance)**  
-*Python, Flask, OpenCV, Dlib* AI-powered system for rural schools that marks attendance via facial recognition from group photos.
-
-**[EduWorld](https://github.com/yourusername/eduworld)**  
-*Web Application* A centralized digital campus platform for student portals, railway concessions, and event management.
-
----
-
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourlinkedin">
@@ -55,5 +42,4 @@ I love building full-stack applications that solve real-world problems, and am c
     <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/6c1ca214-644b-488d-9dab-86ccbc7895a2" />
   </a>
 </p>
-<br />
 <br />
