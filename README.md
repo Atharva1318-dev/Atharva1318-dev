@@ -3,7 +3,7 @@
 
 
 I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
-I love building full-stack applications that solve real-world problems and am currently sharpening my skills in **Data Structures & Algorithms**.
+I love building full-stack applications that solve real-world problems, and am currently working on problem solving skills(**DSA**), building **AI-powered** projects.
 
 ---
 
