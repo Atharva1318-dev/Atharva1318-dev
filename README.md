@@ -1,4 +1,4 @@
-# Hi there, I'm Atharva! 👋
+# Hi there! I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=3F51B5&width=435&lines=Atharva+Jadhav;A+Full-Stack+Developer;A+CS+Student" alt="Typing SVG" /></a>
 
 I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
 I love building full-stack applications that solve real-world problems and am currently sharpening my skills in **Data Structures & Algorithms**.
@@ -36,17 +36,22 @@ I love building full-stack applications that solve real-world problems and am cu
 ---
 
 ### 📫 Let's Connect
-<a href="https://linkedin.com/in/yourlinkedin">
-  <img align="left" alt="Atharva's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:atharvai2005@gmail.com">
-  <img align="left" alt="Email Atharva" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="mailto:atharvajofficial@gmail.com">
-  <img align="left" alt="Email Atharva" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://myportfolio-n5v7.onrender.com">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
-</a>
-
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img align="left" alt="Atharva's LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>
+  &nbsp;
+  <a href="mailto:atharvai2005@gmail.com">
+    <img align="left" alt="Email Atharva" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  &nbsp;
+  <a href="mailto:atharvajofficial@gmail.com">
+    <img align="left" alt="Email Atharva" width="24px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://myportfolio-n5v7.onrender.com">
+    <img align="left" alt="Portfolio" width="24px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
+  </a>
+</p>
+<br />
 <br />
