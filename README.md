@@ -1,5 +1,5 @@
 # Hi there, I'm Atharva! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4200&pause=1100&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC+Mumbai;Full-Stack+Web+Developer;Aspiring+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4150&pause=1000&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC+Mumbai;Full-Stack+Web+Developer;Aspiring+Software+Engineer" />
 
 
 I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
@@ -40,25 +40,19 @@ I love building full-stack applications that solve real-world problems, and am c
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourlinkedin">
-    <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6db30999-db86-47d2-b093-88e5a0fa8e79" />
+    <img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/6db30999-db86-47d2-b093-88e5a0fa8e79" />
   </a>
   &nbsp;
   <a href="mailto:atharvai2005@gmail.com">
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 24 24"
-style="fill:#FFFFFF;">
-    <path d="M 4 4 C 2.895 4 2 4.895 2 6 L 2 18 C 2 19.105 2.895 20 4 20 L 20 20 C 21.105 20 22 19.105 22 18 L 22 6 C 22 4.895 21.105 4 20 4 L 4 4 z M 5.5976562 6 L 18.402344 6 L 12 10 L 5.5976562 6 z M 5 8.6269531 L 12 13 L 19 8.6269531 L 19 18 L 5 18 L 5 8.6269531 z"></path>
-</svg>
+    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/0fb54f2f-9776-4987-94e3-dbdae46c5aa7" />
   </a>
   &nbsp;
   <a href="mailto:atharvajofficial@gmail.com">
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 24 24"
-style="fill:#FFFFFF;">
-    <path d="M 4 4 C 2.895 4 2 4.895 2 6 L 2 18 C 2 19.105 2.895 20 4 20 L 20 20 C 21.105 20 22 19.105 22 18 L 22 6 C 22 4.895 21.105 4 20 4 L 4 4 z M 5.5976562 6 L 18.402344 6 L 12 10 L 5.5976562 6 z M 5 8.6269531 L 12 13 L 19 8.6269531 L 19 18 L 5 18 L 5 8.6269531 z"></path>
-</svg>
+    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/106acdb3-9787-4fae-93ab-1a56841e2c24" />
   </a>
   &nbsp;
   <a href="https://myportfolio-n5v7.onrender.com">
-    <img alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubpages.svg" />
+    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/6c1ca214-644b-488d-9dab-86ccbc7895a2" />
   </a>
 </p>
 <br />
