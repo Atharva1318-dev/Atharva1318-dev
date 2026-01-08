@@ -1,4 +1,5 @@
 # Hi there, I'm Atharva! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC+Mumbai;Full-Stack+Web+Developer;Building+AI-powered+Web+Applications" />
 
 
 I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
