@@ -26,20 +26,20 @@ I love building full-stack applications that solve real-world problems, and am c
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img width="24" height="22" alt="image" src="https://github.com/user-attachments/assets/6db30999-db86-47d2-b093-88e5a0fa8e79" />
+  <a href="https://www.linkedin.com/in/atharva-jadhav-776894348/">
+    <img width="24" height="22" alt="linkedin" src="https://github.com/user-attachments/assets/6db30999-db86-47d2-b093-88e5a0fa8e79" />
   </a>
   &nbsp;
   <a href="mailto:atharvai2005@gmail.com">
-    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/0fb54f2f-9776-4987-94e3-dbdae46c5aa7" />
+    <img width="22" height="22" alt="mail" src="https://github.com/user-attachments/assets/0fb54f2f-9776-4987-94e3-dbdae46c5aa7" />
   </a>
   &nbsp;
   <a href="mailto:atharvajofficial@gmail.com">
-    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/106acdb3-9787-4fae-93ab-1a56841e2c24" />
+    <img width="22" height="22" alt="mail" src="https://github.com/user-attachments/assets/106acdb3-9787-4fae-93ab-1a56841e2c24" />
   </a>
   &nbsp;
   <a href="https://myportfolio-n5v7.onrender.com">
-    <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/6c1ca214-644b-488d-9dab-86ccbc7895a2" />
+    <img width="22" height="22" alt="portfolio_website" src="https://github.com/user-attachments/assets/6c1ca214-644b-488d-9dab-86ccbc7895a2" />
   </a>
 </p>
 <br />
