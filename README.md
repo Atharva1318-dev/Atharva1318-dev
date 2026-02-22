@@ -8,9 +8,8 @@ I love building full-stack applications that solve real-world problems, and am c
 ---
 
 ### 🚀 What I'm Up To
-- 🎓 **Studying:** Computer Engineering (Semester 6)
-- 💻 **Focus:** Full-Stack Web Development (Next.js, React, Node.js)
-- 🛠️ **Building:** Just deployed **VectorAI**, an AI career coach app.
+- 🎓 **Studying:** Computer Engineering (Semester 6).
+- 💻 **Focus:** Full-Stack Web Development (Next.js, MERN).
 - 🤝 **Collaboration:** Always open to hands-on challenges and team projects!
 
 ---
