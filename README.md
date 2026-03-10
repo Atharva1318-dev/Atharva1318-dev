@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4150&pause=1000&color=58A6FF&vCenter=true&width=550&lines=Computer+Engineering+Student+%7C+TSEC,+Mumbai;Full-Stack+Developer+%7C+Next.js+•+MERN;Aspiring+Software+Engineer" />
 
 
-I'm a **Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
+**Computer Engineering Student** (Class of '27) at **TSEC, Mumbai**. 
 I enjoy building scalable full-stack applications that solve real-world problems and create meaningful user experiences, and am currently working on my problem solving skills(**DSA**), building **AI-powered** projects.
 
 ---
